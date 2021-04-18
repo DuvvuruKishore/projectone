@@ -1,0 +1,12 @@
+.color{
+    color:white;
+}
+.cart_link{
+    background:black;
+    padding: 10px;
+    border-radius: 15px;
+}
+.cart_link:hover{
+    background:blueviolet;
+}
+
